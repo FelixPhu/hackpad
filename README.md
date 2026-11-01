@@ -1,6 +1,6 @@
 # padpadpadpadpadpad
 
-Padpadpadpadpadpad (or pad^6) is a simple hackpad with 6 keys and 2 WS2812B LEDs. [One or two sentences on what you use it for or why you built it, e.g. shortcuts, media controls, or just a fun first PCB.]
+Padpadpadpadpadpad (or pad^6) is a simple hackpad with 6 keys and 2 WS2812B LEDs. Made for fun + learning experience
 
 ## Features
 - 6 mechanical keys
@@ -35,3 +35,4 @@ Here's everything you need to make this hackpad:
 - 6 DSA Keycaps
 - 2 WS2812B LEDs
 - 1 Case (3 3D printed parts)
+
