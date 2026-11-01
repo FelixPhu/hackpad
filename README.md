@@ -1,6 +1,6 @@
 # padpadpadpadpadpad
 
-[assets/pcb.png](url)
+<img src="assets/cad.png" alt="Full hackpad render" width="400">
 
 Padpadpadpadpadpad (or pad^6) is a simple hackpad with 6 keys and 2 WS2812B LEDs. Made for fun + learning experience
 
@@ -18,12 +18,12 @@ Made in Onshape
 ## PCB
 The PCB was designed in KiCad. 
 
-![PCB](assets/pcb.png)
+<img src="assets/pcb.png" alt="Case" width="300">
 I found the silkscreen on the internet and decided to use it.
 
 Schematic:
 
-![Schematic](assets/schematic.png)
+<img src="assets/schematic.png" alt="PCB" width="300">
 
 ## Firmware
 This hackpad uses QMK Software for everything.
