@@ -19,7 +19,7 @@ Made in Onshape
 The PCB was designed in KiCad. 
 
 <img src="assets/pcb.png" alt="Case" width="300">
-I found the silkscreen on the internet and decided to use it.
+I found the silkscreen on the internet.
 
 Schematic:
 
@@ -39,4 +39,4 @@ Here's everything you need to make this hackpad:
 - 1 Case (3 3D printed parts)
 - Custom PCB
 - 4 M3x16mm screws
-- 4 M3x5mx4mm heatset inserts
+- 4 M3x5mx4mm heatset insert
